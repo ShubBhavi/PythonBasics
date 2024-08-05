@@ -1,5 +1,5 @@
-# # list=["shubham",34,True]
-# # print(list)
+list=["shubham",34,True,34]
+print(list)
 #
 # # list={1,2,3,4,4,4,}
 # # print(list)

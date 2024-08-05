@@ -13,3 +13,11 @@ print(tuple(map(str,number)))
 
 number1=(list(map(int,input("enter the numebrs").split())))
 print(number1)
+
+
+# value=[]
+# for i in range (1,5):
+#     value.append(i)
+# print(value)
+
+

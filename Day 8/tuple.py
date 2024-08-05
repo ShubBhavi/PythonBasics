@@ -8,6 +8,7 @@ set={1,2,3,4,4,4,5,6,7,"rahul"}
 print(2 in set)
 list=[1,"rahul","i+2j",True]
 print("rahul" in list)
+list[3]=4
 print(list)
 print(set)
 

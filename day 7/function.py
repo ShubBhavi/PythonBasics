@@ -12,6 +12,15 @@
 #
 # sayhello("shubham")
 
+def add(a):
+    return a*8
+
+print(add(10))
+
+name="nayan"
+new_name=name[::-1]
+print(new_name)
+
 
 
 

@@ -11,3 +11,5 @@ list[2]=32
 print(list)
 list.append(8)
 print(list)
+list.pop(5)
+print(list)

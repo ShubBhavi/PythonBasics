@@ -26,3 +26,4 @@ print(name[5:12])
 name1="Ranbirkapoor"
 
 print(name1[5:8])
+print(id(name))

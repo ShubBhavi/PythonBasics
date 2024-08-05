@@ -1,8 +1,8 @@
-# list=[22,33,44,44,55]
-# print(list)
-#
-# set1=(set(list))
-# print(set1)
+list=[22,33,44,44,55]
+print(list)
+
+set1=(set(list))
+print(set1)
 
 # def add(x,y):
 #     result=x+y

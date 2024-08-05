@@ -7,7 +7,7 @@
 
 # shubhamdetails=dict(name="shubham",age=24,address="KA")
 # print(shubhamdetails)
-#
+
 # print(shubhamdetails["age"])
 
 # ordered dict

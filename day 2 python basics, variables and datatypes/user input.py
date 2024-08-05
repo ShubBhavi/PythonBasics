@@ -7,3 +7,7 @@ print(name1, name2, sep="-", end='\t')
 
 name3 = input("enter your name\n")
 print("you are welcome", name3, "to the python class", sep=" ", end="\n")
+
+#
+# name5=input("please enter ua name in the terminal")
+# print("welcome to the python automation",name5,"Please take  ua seat")
